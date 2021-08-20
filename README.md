@@ -19,7 +19,13 @@ Copyright (c) 2021 Isabelle J.  Licensed under the MIT license.
 Contibutions: 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. 
 
-GitHub Profile:
+GitHub Profile: 
+https://github.com/izzziej 
 
 Email: 
 izziej@gmail.com
+
+![image](https://user-images.githubusercontent.com/84287535/130294589-c23ee67c-61cd-4491-8990-3bd48a94a80e.png)
+
+![image](https://user-images.githubusercontent.com/84287535/130294648-5588daca-44f9-4fa3-988c-3762d5fbf2fa.png)
+
