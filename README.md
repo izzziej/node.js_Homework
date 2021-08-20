@@ -6,6 +6,10 @@ A README.md interactive file maker using node.js.
 Using the npm interactive inquirer package this application asks questions and then inputs the anwers into a text README.md File. You can read about inquirer more at https://www.npmjs.com/package/inquirer#documentation. 
 Here is a video showing the application in action. Video is taken with Screencastify Google Plug In. 
 
+Here is a video of the application in action: 
+
+https://drive.google.com/file/d/1tT8sD2YmWtZ4P-S-nAHhJs15eUlMfA2M/view
+
 Installation: 
 To run you will need to install the inquirer package, you can install by running npm install. 
 
